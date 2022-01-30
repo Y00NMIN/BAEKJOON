@@ -1,7 +1,7 @@
 {
-  "name": "yoon-baekjoon-javascript",
+  "name": "yoon-baekjoon",
   "version": "1.0.0",
-  "description": "BAEKJOON ONLINE JUDGE",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
