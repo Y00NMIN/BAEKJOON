@@ -17,3 +17,4 @@
 > 10718 We love kriii<br>
 > 1000 A+B<br>
 > 1001 A-B<br>
+> 10998 A\*B<br>
