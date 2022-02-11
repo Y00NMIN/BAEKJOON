@@ -26,6 +26,7 @@ const a = Number(input[0]);
 const b = Number(input[1]);
 const c = Number(input[2]);
 //질문: parseInt는 런타임 오류가 나오는데 Number은 이상이 없는 이유는 무엇일까?
+//답변: parseInt는 정수열로 변환 Number은 숫자열로 변환하는 차이가 있기 때문이다.
 console.log((a + b) % c);
 console.log(((a % c) + (b % c)) % c);
 console.log((a * b) % c);

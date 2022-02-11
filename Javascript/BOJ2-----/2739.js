@@ -11,3 +11,4 @@ for( let i =1 ;, i<10;, i++;){
 }
 
 //split, parseInt 연관성 추가 공부 필요
+//02.11(+)parseInt문자열을 정수로 변환, split 메소드는 각 문자열을 index해주는 역할 method에 정리해둠
