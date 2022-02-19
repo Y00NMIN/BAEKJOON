@@ -17,6 +17,7 @@
 |    9498     |                       <a href="https://www.acmicpc.net/problem/9498">시험성적</a>                       |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ9-----/9498.js">📄</a>       |
 |    2438     |                        <a href="https://www.acmicpc.net/problem/2438">별찍기</a>                        |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ2-----/2438.js">📄</a>       |
 |    2741     |                        <a href="https://www.acmicpc.net/problem/2741">N찍기</a>                         |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ2-----/2741.js">📄</a>       |
+|    11654     |                        <a href="https://www.acmicpc.net/problem/11654">아스키코드</a>                         |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ1-----/11654.js">📄</a>       |
 
 <br>
 
