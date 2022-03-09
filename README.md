@@ -17,7 +17,7 @@
 |    9498     |                       <a href="https://www.acmicpc.net/problem/9498">시험성적</a>                       |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ9-----/9498.js">📄</a>       |
 |    2438     |                        <a href="https://www.acmicpc.net/problem/2438">별찍기</a>                        |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ2-----/2438.js">📄</a>       |
 |    2741     |                        <a href="https://www.acmicpc.net/problem/2741">N찍기</a>                         |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ2-----/2741.js">📄</a>       |
-|    11654     |                        <a href="https://www.acmicpc.net/problem/11654">아스키코드</a>                         |  구현   | 브론즈 |        |       <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ1-----/11654.js">📄</a>       |
+|    11654    |                     <a href="https://www.acmicpc.net/problem/11654">아스키코드</a>                      |  구현   | 브론즈 |        |      <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ1-----/11654.js">📄</a>       |
 
 <br>
 
@@ -42,5 +42,6 @@
 |    10430    |    <a href="https://www.acmicpc.net/problem/10430">나머지</a>     | 수학, 구현, 사칙연산 | 브론즈 |        | <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ1-----/10430.js">📄</a> |
 |    1330     | <a href="https://www.acmicpc.net/problem/1330">두 수 비교하기</a> | 수학, 구현, 사칙연산 | 브론즈 |        | <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ1-----/1330.js">📄</a>  |
 |    8393     |       <a href="https://www.acmicpc.net/problem/8393">합</a>       | 수학, 구현, 사칙연산 | 브론즈 |        | <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ8-----/8393.js">📄</a>  |
+|    2558     |       <a href="https://www.acmicpc.net/problem/8393">합</a>       | 수학, 구현, 사칙연산 | 브론즈 |        | <a href="https://github.com/Y00NMIN/BAEKJOON/blob/main/Javascript/BOJ2-----/2558.js">📄</a>  |
 
 <br>
